@@ -1,0 +1,1 @@
+Our group project is centered around the famous logic game - Sudoku. Despite appearing as a simplistic game, the creation of Sudoku can be either relatively simple or considerably complex. Currently, we plan to generate a Sudoku board along with an updating leaderboard based off of a scoring system.
